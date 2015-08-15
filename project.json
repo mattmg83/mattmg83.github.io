@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "travel.html"
+    "currentPage": "index.html"
   },
   "pages": {
     "index.html": {
@@ -12,32 +12,6 @@
         "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
       },
       "components": [
-        {
-          "_params": {
-            "bgImageRadio": true,
-            "bgImage": "file:///Users/mathieuguerville/Pictures/2014/Album - 2014 09 15 - Hawaii/IMG_5043.JPG",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#28324e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "\n                        <h1>FAVORITE PICTURES</h1><p><br></p><p><br></p>\n                    ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"travel.html\" id=\"note-editor-35\">TRAVEL</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\" id=\"note-editor-36\">OTHER</a>",
-          "_name": "header1",
-          "_anchor": "header1-5",
-          "_styles": {
-            "H1": {
-              "color": "#c1c1c1",
-              "text-align": "center"
-            }
-          }
-        },
         {
           "_params": {
             "bgImageRadio": false,
@@ -60,36 +34,10 @@
         {
           "_params": {
             "bgImageRadio": true,
-            "bgImage": "file:///Users/mathieuguerville/Pictures/2014/Album - 2014 04 05 - ELP France/DSC01750.JPG",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.6"
-          },
-          "caption": "\n                            <h3 style=\"color: #fff\">TEST!</h3> <p style=\"color: #fff\">...</p>\n                        ",
-          "_name": "content5",
-          "_anchor": "content5-6"
-        }
-      ]
-    },
-    "travel.html": {
-      "settings": {},
-      "components": [
-        {
-          "_params": {
-            "textAlign": "left",
-            "inverse": false,
-            "bgImageRadio": false,
             "bgImage": "images/bg.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColorRadio": false,
+            "bgColor": "#28324e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -98,13 +46,16 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "image": "images/iphone.png",
-          "text": "<h2>DRAG AND DROP WEBSITE BUILDER</h2><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-8"
+          "text": "\n                        <h1>Mathieu's playground</h1><p><br></p>\n                    ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"timeline.html\" id=\"note-editor-11\">View Timeline</a>",
+          "_name": "header1",
+          "_anchor": "header1-4"
         }
       ]
+    },
+    "timeline.html": {
+      "settings": {},
+      "components": []
     }
   }
 }
