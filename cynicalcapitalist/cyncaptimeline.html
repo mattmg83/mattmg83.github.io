@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <link rel="stylesheet" href="css/reset.css" />
+	<link rel="stylesheet" href="css/styles.css" />
+    
+    <title>Cyncap | Timeline</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Cyncap Timeline">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <!-- Style-->
+    <style>
+      html, body {
+       height:100%;
+       padding: 0px;
+       margin: 0px;
+      }
+    </style>
+    <!-- HTML5 shim, for IE6-8 support of HTML elements--><!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+</html>
+<body>
+	
+		<!-- Text Logo -->
+		<h1 id="logo" class="grid_4">Cynical Capitalist</h1>
+		
+		<!-- Navigation Menu -->
+		<ul id="navigation" class="grid_8">
+			<li><a href="contact.html"><span class="meta">get in touch</span><br />Contact</a></li>
+			<!-- <li><a href="blog.html"><span class="meta">latest news</span><br />Blog</a></li> -->
+			<li><a href="portfolio.html"><span class="meta">the collection</span><br />Portfolio</a></li>
+			<li><a href="about.html" class="current"><span class="meta">learn more</span><br />About</a></li>
+			<li><a href="index.html"><span class="meta">homepage</span><br />Home</a></li>
+		</ul>
+		
+		<div class="hr grid_12 clearfix">&nbsp;</div>
+			
+		<!-- Caption Line -->
+		
+	
+  <!-- BEGIN Timeline Embed -->
+  <div id="timeline-embed"></div>
+  <script type="text/javascript">
+    var timeline_config = {
+     width: "100%",
+     height: "100%",
+     source: 'https://docs.google.com/spreadsheet/pub?key=0AuW0LpYTQNqOdEZpckJCdDZpbmMwaTE1eXdNbE1mTmc&output=html'
+    }
+  </script>
+  <script type="text/javascript" src="TimelineJS-master/compiled/js/storyjs-embed.js"></script>
+  <!-- END Timeline Embed-->
+</body>

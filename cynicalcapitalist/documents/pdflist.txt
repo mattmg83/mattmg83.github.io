@@ -1,0 +1,47 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 686D-4060
+
+ Directory of C:\Users\21308\Dropbox\Lightbox\pdf
+
+01/11/2013  08:40 AM    <DIR>          .
+01/11/2013  08:40 AM    <DIR>          ..
+01/11/2013  08:40 AM                 0 pdflist.txt
+12/29/2012  09:44 AM         6,179,458 [AOL] AOL Time Warner merger - Newsweek cover and article - 2000.pdf
+12/27/2012  07:06 PM         1,762,166 [BCCI] Time Magazine about BCCI - 1991.pdf
+12/27/2012  12:57 PM        26,484,189 [DotCom bubble] Time Magazine April 2000 dotcom bubble bursts - 2000.pdf
+12/27/2012  07:47 PM         6,267,278 [Enron] Annual Meeting 2000 Letter to shareholders.pdf
+12/31/2012  11:56 AM           228,494 [Enron] Consolidated list of all Enron creditors at time of bankruptcy.pdf
+12/18/2012  08:49 AM         2,591,242 [Enron] Enron Annual Report 1998.pdf
+12/18/2012  08:49 AM         2,003,835 [Enron] Enron Annual Report 1999.pdf
+12/18/2012  08:49 AM           792,732 [Enron] Enron Annual Report 2000.pdf
+12/27/2012  06:59 PM         3,609,778 [Enron] Enron Class Action Lawsuit documents.pdf
+12/31/2012  11:57 AM            23,559 [Enron] Enron filing for Chapter 11 announcement.pdf
+12/31/2012  11:57 AM            44,373 [Enron] Enron response to Andersen testimony.pdf
+12/31/2012  11:56 AM             4,920 [Enron] Letter from Enron CEO Ken Lay to Congressman Oxley, Chairmain of the Finance Committee.pdf
+12/31/2012  08:21 AM         6,058,852 [Enron] New hire welcome binder (policies, org chart, tips, etc.).pdf
+12/27/2012  07:02 PM         1,517,244 [Enron] Playboy magazine special - Women of Enron - 2002.pdf
+12/27/2012  07:18 PM           959,290 [HDDVD] HD DVD article in Sound and Vision.pdf
+12/27/2012  11:14 AM         1,481,148 [Hummer] Hummer H2 user manual.pdf
+12/27/2012  07:43 PM         1,651,875 [La Femme] Dodge La Femme article.pdf
+12/29/2012  09:42 AM         3,171,117 [Lehman] Interview of Lehman CEO Dick Fuld months before collapse, in leaders magazine.JPG.pdf
+12/18/2012  09:22 AM           207,356 [Lehman] Lehman 2008 delisting notice.pdf
+12/18/2012  09:15 AM         3,259,233 [Lehman] Lehman Brothers 2007 Annual Report.pdf
+12/18/2012  08:48 AM           891,523 [Lehman] Lehman Brothers Business Continuity Guide.pdf
+12/27/2012  08:04 PM         7,282,113 [Lehman] Lehman Brothers liquidation art auction catalog (low resolution) - 2010.pdf
+12/27/2012  07:47 PM        74,073,831 [Lehman] Lehman Brothers liquidation art auction catalog - 2010.pdf
+12/27/2012  07:15 PM         7,954,225 [Madoff] Bernie Madoff US Marshalls liquidation auction jewelry catalog - 2008r.pdf
+12/27/2012  07:58 PM         1,709,631 [Madoff] Madoff Investment Brochure - 2008.pdf
+12/18/2012  08:56 AM           503,219 [Pets.com] IPET (pets.com holding) annual report 2001.pdf
+12/29/2012  10:04 AM         6,105,440 [Pinto] Ford Pinto brochure - 1973.pdf
+12/16/2012  08:20 AM           678,489 [Pinto] The Pinto Memo.pdf
+12/16/2012  08:18 AM         1,099,996 [Qwikster] Qwikster launch and retreat announcements.pdf
+12/31/2012  08:10 AM         4,076,168 [Stanford] The Stanford Financial Group brochure - Allen Stanford.pdf
+12/27/2012  06:57 PM         3,123,947 [Tulip Mania] Tulipomania book.pdf
+12/25/2012  07:52 PM         2,842,930 [Vioxx] Merck 2004 Annual Report.pdf
+12/18/2012  09:10 AM         1,265,731 [WaMu] Washington Mutual 2007 Annual Report.pdf
+12/18/2012  08:54 AM         1,536,032 [Webvan] Webvan annual report 2000.pdf
+12/18/2012  08:53 AM         1,013,203 [Webvan] Webvan annual report 2001.pdf
+12/27/2012  12:59 PM         3,308,933 [Webvan] Webvan new employee information package.pdf
+12/18/2012  08:59 AM         3,322,584 [Worldcom] Worldcom annual report 2002.pdf
+              38 File(s)    189,086,134 bytes
+               2 Dir(s)  220,891,168,768 bytes free
