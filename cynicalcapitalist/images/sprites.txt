@@ -1,0 +1,4 @@
+		overall size	width	height
+buttons				107	97
+buttons	up			107	48
+buttons down			107	49

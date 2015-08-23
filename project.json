@@ -1,12 +1,12 @@
 {
   "settings": {
-    "currentPage": "index.html"
+    "currentPage": "cyncap.html"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Mathieu's pictures",
+        "title": "Mathieu's playground",
         "meta_descr": "",
         "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
         "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
@@ -33,21 +33,23 @@
         },
         {
           "_params": {
-            "bgImageRadio": true,
-            "bgImage": "images/bg.jpg",
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/mathieuguerville/Box Sync/Graphics/3024869-poster-p-sky.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#28324e",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/GE1j4csIV0g?rel=0&autoplay=0&loop=0",
+              "width": 1280,
+              "height": 720
             },
             "overlay": false,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.5"
           },
-          "text": "\n                        <h1>Mathieu's playground</h1><p><br></p>\n                    ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"timeline.html\" id=\"note-editor-11\">View Timeline</a>",
+          "text": "\n                        \n                        <h1>Mathieu's playground</h1><p><br></p>\n                    \n                    ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"timeline.html\" id=\"note-editor-34\">My Timeline</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"cyncap.html\" id=\"note-editor-35\">My Collection</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"timeline.html\" id=\"note-editor-37\">My Pictures</a>",
           "_name": "header1",
           "_anchor": "header1-4"
         }
@@ -55,6 +57,12 @@
     },
     "timeline.html": {
       "settings": {},
+      "components": []
+    },
+    "cyncap.html": {
+      "settings": {
+        "title": "cyncap"
+      },
       "components": []
     }
   }

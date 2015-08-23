@@ -1,0 +1,143 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 686D-4060
+
+ Directory of C:\Users\21308\Dropbox\Lightbox\img
+
+01/11/2013  09:48 AM    <DIR>          .
+01/11/2013  09:48 AM    <DIR>          ..
+01/11/2013  09:48 AM            11,484 imglist
+01/11/2013  09:48 AM                 0 imglist.txt
+12/15/2012  09:56 AM         5,371,533 [1901 Crash] (1).JPG
+12/15/2012  02:26 PM         5,769,886 [1929 Crash] (1).JPG
+12/27/2012  05:14 PM         1,938,069 [1987 Crash] Black Friday (2).jpg
+12/27/2012  05:23 PM         9,311,512 [1987 Crash] Black Friday (3).JPG
+12/27/2012  05:42 PM         9,270,297 [1987 Crash] Black Monday whiskey Glasses.jpg
+12/29/2012  09:47 AM         7,262,147 [1997 Crash] USA Today, Oct 28, 1997 (1).JPG
+12/25/2012  10:50 AM         5,344,809 [2010 Flash Crash].JPG
+11/25/2012  12:03 PM         9,856,200 [Amp'd] Amp'd mobile ad.jpg
+12/26/2012  08:52 AM           277,590 [Andersen] Joe Berardino - CEO financial playing card.jpg
+12/26/2012  09:41 AM         3,760,552 [Antitrust] Bell Systems dismantlment ad - 1970 (2).jpg
+12/17/2012  08:12 AM           442,129 [Antitrust] John Sherman signature.jpg
+12/23/2012  04:31 PM         1,946,497 [Antitrust] Standard Oil 1911 gas receipt.jpg
+12/17/2012  03:41 PM         2,326,211 [AOL] AOL Time Warner merger in Newsweek, Steve Case cover - 1998 (1).jpg
+12/26/2012  11:54 AM           248,159 [AOL] Steve Case - board member financial playing card.jpg
+11/23/2012  11:54 AM         2,904,724 [Arch Deluxe] McDonald's Arch Deluxe pin.JPG
+12/17/2012  03:06 PM           198,270 [Barings] Nick Leeson autograph - 1995.jpg
+12/17/2012  03:07 PM           114,622 [Bear Stearns] Bear Stearns Cafeteria card.jpg
+11/23/2012  12:13 PM         3,280,290 [Bear Stearns] Bear Stearns desk toy cube (2).JPG
+12/17/2012  08:12 AM         1,119,884 [BetaMax] (2).jpg
+12/19/2012  03:27 PM           770,891 [BetaMax] Betamax tape (1).JPG
+12/19/2012  03:26 PM           994,584 [BetaMax] Betamax tape (3).JPG
+12/19/2012  11:41 AM         2,428,924 [BetaMax].jpg
+12/26/2012  08:46 AM           262,118 [Conseco] Stephen Hilbert - CEO financial playing card.jpg
+12/19/2012  03:52 PM         4,118,747 [Crash of 1929] Brooklyn Daily Eagle Oct 24, 1929.JPG
+12/26/2012  03:01 PM         1,122,160 [Croatia] 500 million dinars - 1993 (max 50 bn, 1993).jpg
+12/27/2012  05:16 PM         3,521,833 [Crystal Pepsi] - 1992 (1).JPG
+12/17/2012  02:56 PM         1,628,840 [Crystal Pepsi] - 1992 (2).JPG
+12/29/2012  10:06 AM         9,270,277 [De Lorean] (1).jpg
+12/17/2012  03:28 PM         1,073,513 [Discount Group] Press photography, Discount Group ponzi scheme - 1937.jpg
+12/26/2012  11:54 AM           319,191 [DotCom] Henry Blodgett - Internet analyst @ Merrill Lynch.jpg
+12/19/2012  03:12 PM         1,085,503 [Enron] Enron acquisition deal toy - Serveron - 2001.JPG
+12/19/2012  03:13 PM         1,072,629 [Enron] Enron acquisition deal toy - Silicon Power - 2001.JPG
+12/19/2012  03:17 PM         1,461,160 [Enron] Enron acquisition deal toy - Tridium - 2000.JPG
+12/19/2012  03:15 PM         1,099,157 [Enron] Enron acquisition deal toy - Webmodal - 2000.JPG
+12/09/2012  07:55 AM         3,570,856 [Enron] Enron debt deal toy - Prudential - 1998.JPG
+12/19/2012  04:00 PM         1,677,420 [Enron] Enron employee directory.JPG
+12/19/2012  03:14 PM         1,550,331 [Enron] Enron Executive Impact award trophy.JPG
+12/26/2012  01:21 PM         6,421,378 [Enron] Enron inter-office enveloppe.JPG
+12/17/2012  03:34 PM           404,558 [Enron] Enron laminated Vision statement.jpg
+11/24/2012  08:42 AM         1,311,726 [Enron] Enron named 'Best Company to work for' Fortune magazine cover - 2001.jpg
+12/16/2012  11:19 AM           598,991 [Enron] Enron Org Chart.jpg
+12/27/2012  02:03 PM         3,498,657 [Enron] Enron polo shirt.JPG
+12/27/2012  03:28 PM         3,801,088 [Enron] Enron retirement planning mug.jpg
+12/17/2012  11:05 PM         4,666,729 [Enron] Enron stock certificate.jpg
+11/26/2012  09:50 PM           281,028 [Enron] Ken Lay stationary.jpg
+12/17/2012  03:35 PM           559,634 [Enron] Lynn Brewer, Enron whistleblower autograph (1).jpg
+12/26/2012  09:33 AM         2,235,303 [Enron] Wendy Lee Gramm autograph.jpg
+12/17/2012  05:57 PM           933,145 [eToys.com] Ad - 2000.jpg
+12/17/2012  05:39 PM           657,200 [Germany] 100 million German Papiermark - 1923 (max 100 tr, 1923).jpg
+12/06/2012  07:17 PM         1,697,859 [Global Crossings] Stock certificate (1).jpg
+12/26/2012  08:52 AM           337,473 [Global Crossing] Gary Winnick - CEO financial playing card.jpg
+12/19/2012  03:52 PM         3,340,071 [Gold Standard] (1).JPG
+11/27/2012  10:51 PM         1,431,182 [Gold Standard].jpg
+12/26/2012  02:28 PM         1,820,270 [Greece] 100 billion Drachmas - 1944 (max 100 tr, 1946).jpg
+12/26/2012  09:02 AM           281,309 [HealthSouth] Richard Scrushy - CEO financial playing card.jpg
+12/26/2012  02:16 PM         1,001,429 [Hungary] 1 Billion pengo - 1946.jpg
+12/26/2012  02:13 PM           954,978 [Hungary] 10,000 B-Pengo - 1946.jpg
+12/26/2012  02:11 PM           842,404 [Hungary] 500,000 Adopengo - 1946.jpg
+12/19/2012  03:23 PM         2,159,980 [IBM OS2] IBM OS 2 original copy - 1993 (1).JPG
+12/26/2012  08:58 AM           335,818 [ImClone] Sam Waksal - CEO financial playing card.jpg
+12/29/2012  05:28 PM         1,304,955 [IOS] Investors Overseas Services bearer share certificate (2).jpg
+01/05/2013  12:20 PM         1,215,218 [Kodak] Kodak - Panam ad.jpg
+12/29/2012  05:26 PM           323,899 [Kreuger] Press photograph of Ivar Kreuger, the Swedish Match King.jpg
+12/26/2012  03:34 PM         2,653,613 [LaserDisc].JPG
+12/19/2012  03:29 PM         1,787,292 [Lehman] Lehman Brothers & Blackstone CDO deal toy - 2007.JPG
+01/03/2013  04:22 PM         3,178,723 [Lehman] Lehman Brothers crystal paperweiht (1).JPG
+12/19/2012  03:34 PM           819,539 [Lehman] Lehman Brothers desk cube toy, firm values (4).JPG
+12/19/2012  03:32 PM         2,151,447 [Lehman] Lehman Brothers Emergency Evacuation kit (2).JPG
+12/08/2012  08:50 AM         3,792,867 [Lehman] Lehman Brothers mouse pad.JPG
+12/19/2012  11:04 AM         1,333,968 [Lehman] Lehman Brothers new employee welcome package.JPG
+12/17/2012  03:20 PM           262,200 [LTCM] Robert C Merton autograph - 1997.jpg
+12/17/2012  02:59 PM           755,758 [Madoff] Bernie Madoff signature on check.jpg
+12/17/2012  05:59 PM         1,241,511 [Madoff] Bernie Madoff trading statements to customers.jpg
+12/19/2012  11:03 AM         2,358,856 [Madoff] Newspaper headline - Madoff inmate number 61727-054.JPG
+12/09/2012  08:18 AM         4,215,957 [Madoff] Newspaper headline - most hate man in NY.JPG
+12/26/2012  09:03 AM           271,252 [Martha Stewart] Martha Stewart - CEO financial playing card.jpg
+12/27/2012  05:04 PM         2,841,341 [Mississippi Bubble] Replica engraving about Mississippi Bubble.jpg
+12/17/2012  05:45 PM         1,128,067 [MVP.com] hat.JPG
+12/27/2012  01:52 PM         1,642,057 [MVP.com] T shirt.JPG
+12/17/2012  02:56 PM         1,174,480 [New Coke] - 1985 (1).JPG
+12/17/2012  02:55 PM         1,259,265 [New Coke] - 1985 (2).JPG
+12/19/2012  11:04 AM         1,559,684 [NewsCorp] News of the World, last edition - 2012 (1).JPG
+12/31/2012  11:12 AM           174,130 [NewsWeek] Newsweek_final_issue.jpg
+12/15/2012  09:29 AM         2,591,038 [Newton] (2).JPG
+12/18/2012  01:39 PM           265,479 [Oil Crisis] Gas Ration Coupon for one unit of gasoline - 1973.jpg
+12/17/2012  01:51 PM           703,226 [Oil Crisis] Press photography about Oil Crisis - 1973 (1).jpg
+12/17/2012  08:12 AM           770,339 [Oil Crisis] Press photography about Oil Crisis - 1973 (4).jpg
+12/17/2012  03:00 PM           510,357 [One.Tel] One.Tel calling card.jpg
+12/19/2012  11:41 AM           365,506 [Panam] Letter wanring Panam of terrorist threat, ignored and leading to the Lockerbie incident.jpg
+12/17/2012  10:46 PM         2,495,459 [Panam] Stock certificate (1).jpg
+01/03/2013  05:08 PM         8,284,746 [Panic of 1857] oct 16, 1857 newspaper.JPG
+11/24/2012  08:48 AM         1,429,748 [Panic of 1866] Popular Monthly newsletter about panic of 1866 (2).jpg
+12/17/2012  03:31 PM           969,803 [Panic of 1873].jpg
+12/19/2012  10:59 AM         3,127,651 [Panic of 1882] Feb 11, 1882 newsletter.JPG
+12/17/2012  03:29 PM         4,152,691 [Panic of 1884] Engraving and article about panic of 1884.jpg
+12/17/2012  08:12 AM         1,013,598 [Panic of 1884] Popular Monthly newsletter about panic of 1884 (1).jpg
+12/19/2012  03:39 PM           151,700 [Panic of 1884] Replica engraving of Wall Street during panic of 1884.jpg
+12/27/2012  05:28 PM         2,504,791 [Panic of 1907] Medal commemorating JP Morgan rescing the banks from the panic of 1907.JPG
+12/17/2012  03:21 PM         1,556,899 [Pepsi AM] bottle.JPG
+12/17/2012  03:21 PM         1,248,771 [Pepsi AM] can.JPG
+12/23/2012  07:02 PM         3,316,964 [Pepsi AM].JPG
+01/04/2013  08:15 AM         2,822,491 [Pets.com] mascot sock puppet - 2000 (1).JPG
+12/17/2012  05:54 PM           792,658 [Pets.com] Pets.com stickers.jpg
+12/19/2012  11:36 AM         1,028,926 [Phar Mor] Mickey Monus CEO press photo - 1992.jpg
+12/17/2012  03:04 PM         1,532,495 [Ponzi] Charles Ponzi press photo - release from prison - 1934.jpg
+11/27/2012  10:43 PM         1,876,881 [Rely] Rely tampon ad - 1978.jpg
+12/29/2012  02:24 PM         7,414,929 [South Sea Bubble].JPG
+12/15/2012  06:49 AM           434,795 [South Sea] Replica warrant posted by the King for the South Sea Company leader.jpg
+01/03/2013  11:23 AM         7,041,117 [Standard Oil] newspaper about dismantlement in 1911.JPG
+01/05/2013  08:38 PM         6,345,104 [Studebaker] Studebaker ad - 1966.JPG
+12/17/2012  05:47 PM         2,137,251 [Theglobe.com] stock certificate (1).jpg
+12/08/2012  10:29 AM         5,556,148 [Tulipomania] (4).JPG
+12/26/2012  08:53 AM           301,559 [Tyco] Dennis Kozlowski - CEO financial playing card.jpg
+12/26/2012  08:57 AM           349,956 [Tyco] mark Schwartz - CFO financial playing card.jpg
+12/17/2012  03:26 PM         1,566,763 [Vioxx] Vioxx drug bottle and paraphernilia - 2004 (2).JPG
+12/29/2012  02:22 PM         4,871,853 [WaMu] WaMu CEO bobblehead.JPG
+01/03/2013  04:09 PM         7,861,360 [WaMu] Washington Mutual Action Figure bank teller doll - 2008 (3).JPG
+12/19/2012  11:40 AM         1,259,262 [Wang] Wang Lab computer ad - 1980.jpg
+12/27/2012  01:44 PM         1,942,946 [WebTV].JPG
+01/04/2013  08:07 AM         2,688,807 [Webvan] fridge magnet - 2001 (2).JPG
+11/24/2012  09:16 AM         1,401,966 [Webvan] Stock certificate (1).jpg
+12/26/2012  09:03 AM           356,590 [Worldcom] Bernie Ebbers - CEO financial playing card.jpg
+12/26/2012  11:54 AM           290,138 [Worldcom] Scott Sullivan CFO - Financial playing cards.jpg
+12/26/2012  11:52 AM         5,890,030 [Worldcom] Stock certificate (1).JPG
+12/26/2012  09:18 AM           791,538 [WorldCom] Worldcom calling card - 2001.jpg
+12/17/2012  08:12 AM           402,617 [Yamachi] Yamachi Securities - 1997 (1).jpg
+12/17/2012  03:48 PM         1,079,756 [Yugoslavia] 5 billion dinars - 1994 (max 500 bn, 1994).jpg
+12/17/2012  03:23 PM           235,068 [Zapmail] fedex zapmail sticker - 1984.jpg
+12/26/2012  02:28 PM         2,958,696 [Zimbabwe] 100 trillion Zimbabwean Dollars - 2008 (max 100 tr, 2008).jpg
+12/19/2012  11:31 AM           592,815 [ZZZZ Best] Barry Minkow autographed book - 1987 (1).jpg
+             132 File(s)    292,084,569 bytes
+               2 Dir(s)  220,298,018,816 bytes free
+
+
