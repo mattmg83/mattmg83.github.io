@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Ned1.html"
+    "currentPage": "page1.html"
   },
   "pages": {
     "riskpool.html": {
@@ -306,7 +306,7 @@
             "overlayOpacity": 0.5
           },
           "text": "\n                    <h2>Protect your camera, turntables and vynil collection</h2>\n                ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"Ned1html\" id=\"note-editor-18\">Start as Ned</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"Ned1.html\" id=\"note-editor-18\">Start as Ned</a>",
           "_name": "msg-box2",
           "_anchor": "msg-box2-11",
           "_styles": {
