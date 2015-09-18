@@ -1,0 +1,455 @@
+{
+  "settings": {
+    "currentPage": "page1.html"
+  },
+  "pages": {
+    "riskpool.html": {
+      "settings": {
+        "main": true,
+        "title": "riskpool simulation",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": false,
+            "brand": "Riskpool",
+            "textColor": "#4c6972",
+            "items": [
+              {
+                "title": "HOME",
+                "href": "http://mobirise.com",
+                "pages": "",
+                "anchor": ""
+              },
+              {
+                "title": "ABOUT",
+                "href": "http://mobirise.com",
+                "pages": "",
+                "anchor": ""
+              }
+            ]
+          },
+          "logo": "images/logo.png",
+          "_name": "menu",
+          "_anchor": "menu-1"
+        },
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/mathieuguerville/Desktop/neighborhood-25076e19ab8bb425220e53a6c64772ce-resized and spiced up.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                        <h1>RiskPool Simulation<span style=\"font-size: 21px; line-height: 1.42857143;\">.</span><br></h1>\n                    ",
+          "buttons": "",
+          "_name": "header1",
+          "_anchor": "header1-0"
+        },
+        {
+          "_params": {
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "img1": "images/bootstrap.png",
+          "img2": "images/responsive.png",
+          "img3": "images/google-fonts.png",
+          "img4": "images/unlimited-websites.png",
+          "caption1": "\n                            <h3>Blogging and other sharing</h3><p>We are trying to keep this quiet for now, if you're a twitter superstar or have a big network, we'd appreciate if you held back on sharing our masterplan for now ;)</p>\n                        ",
+          "caption2": "\n                            <h3>What it looks like</h3><p>At this point, RiskPool isn't live. Everything you see today is just built for a simulation. We're playing a big game of \"pretend\" and would be very grateful if you could do your best to stay in character.</p>\n                        ",
+          "caption3": "\n                            \n                            <h3>Survey</h3><p>After the simulation, we'd like to ask you a few questions. We can't wait to hear your feedback</p>\n                        \n                        ",
+          "caption4": "\n                            <h3><br></h3><p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>\n                        ",
+          "button1": "\n                                \n                            ",
+          "button2": "\n                                \n                            ",
+          "button3": "\n                                \n                            ",
+          "button4": "\n                                \n                            ",
+          "_name": "features1",
+          "_anchor": "features1-2"
+        },
+        {
+          "_params": {
+            "bgImageRadio": true,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.6
+          },
+          "caption": "\n                            <h3 style=\"color: #fff\">Choose your own adventure</h3> <p style=\"color: #fff\">This simulation is like a \"choose your own adventure\" book, you can pick the character you want to play and make a few choices along the way.</p><p style=\"color: #fff\">The main plot is that you're signing up for <span style=\"font-weight: bold;\">Riskpool</span>, where you're grouped with 9 other people and you each put in a little bit of money to insure some of your belongings.</p><p style=\"color: #fff\">The simulation pretends to last a full year and shows you what happens if you or someone else in your pool suffers a loss or damage to some of their valuable belongings.&nbsp;</p><p style=\"color: #fff\"><br></p><p style=\"color: #fff\">The big idea is that unlike insurance, Riskpool is really a community and it has your back.</p><p style=\"color: #fff\">If you need help, your pool members are more likely to help than an actuarial software algorithm from BigInsuranceCo</p><p style=\"color: #fff\">If you don't need help you may even recover some of your investment and build wealth. Have you tried calling your insurer for money back? ...I didn't think so.... ;)</p>\n                        ",
+          "_name": "content5",
+          "_anchor": "content5-3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>Are you ready?&nbsp;</h2>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"page1.html\" id=\"note-editor-29\">START</a>",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-5"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {},
+      "components": [
+        {
+          "_params": {
+            "logo": false,
+            "brand": "Riskpool",
+            "textColor": "#4c6972",
+            "items": [
+              {
+                "title": "HOME",
+                "href": "http://mobirise.com",
+                "pages": "",
+                "anchor": ""
+              },
+              {
+                "title": "ABOUT",
+                "href": "http://mobirise.com",
+                "pages": "",
+                "anchor": ""
+              }
+            ]
+          },
+          "logo": "images/logo.png",
+          "_name": "menu",
+          "_anchor": "menu-1"
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Desktop/robots-159598_640.png",
+          "text": "\n                        \n                        <h2>The characters</h2><p>You get to pick who you want to be!</p>\n                    \n                    ",
+          "button": "\n                            \n                        ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-7"
+        },
+        {
+          "_params": {
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "caption1": "\n                            \n                            <h3>Bruce</h3><p>Bruce has a job that lets him work remotely a lot, so the three most valuable things to him are his <span style=\"font-weight: bold;\">MacBook Air </span>he carries everywhere, his <span style=\"font-weight: bold;\">fishing gear </span>he takes to the river whenever he can, and his big <span style=\"font-weight: bold;\">flat screen TV.</span></p>\n                        \n                        ",
+          "caption2": "\n                            \n                            <h3>Sue</h3><p>Sue is a \"glue\" person, she know a lot of people and is friends with everyone. Not everybody knows what she does for a living, but her life is built around her <span style=\"font-weight: bold;\">bike</span>, her <span style=\"font-weight: bold;\">surfboard</span> for the rare times she's alone, and her <span style=\"font-weight: bold;\">homebrewing kit</span>.</p>\n                        \n                        ",
+          "caption3": "\n                            \n                            <h3>Ned</h3><p>Ned is a creative friend, he is amateur photographer, rarely seen without his <span style=\"font-weight: bold;\">camera. </span>He loves music, and bought himselves some <span style=\"font-weight: bold;\">turntables</span> recently to have fun at home with is huge<span style=\"font-weight: bold;\"> collection of vynils</span></p>\n                        \n                        ",
+          "caption4": "<h3>UNLIMITED WEBSITES</h3><p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "caption5": "<h3>TRENDY WEBSITE BLOCKS</h3><p>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.</p>",
+          "_name": "content4",
+          "_anchor": "content4-6",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            },
+            "H3": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    \n                    <h2>Welcome to Riskpool</h2><p>Your friend just invited you to join. You can protect your valuables against loss, damage or theft</p><p>Your pool consist of Bruce, Sue, Ned and 7 other people. You'll load details about your valuables, (pretend) pay for your share of the pool, and live through 12 months in the shoes of your character</p>\n                \n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-9"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>Protect your laptop, TV, and fishing gear</h2>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-38\">Start as Bruce</a>",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-10",
+          "_styles": {
+            "H2": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>Protect your bike, surfboard and homebrewing kit</h2>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-42\">Start as Sue</a>",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-12",
+          "_styles": {
+            "H2": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>Protect your camera, turntables and vynil collection</h2>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"Ned1html\" id=\"note-editor-18\">Start as Ned</a>",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-11",
+          "_styles": {
+            "H2": {
+              "font-size": "16px"
+            }
+          }
+        }
+      ]
+    },
+    "Bruce1.html": {
+      "settings": {
+        "title": "Bruce1"
+      },
+      "components": []
+    },
+    "Sue1.html": {
+      "settings": {
+        "title": "Sue1"
+      },
+      "components": []
+    },
+    "Ned1html": {
+      "settings": {},
+      "components": [
+        {
+          "_params": {
+            "bgImageRadio": true,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.6
+          },
+          "caption": "\n                            <h3 style=\"color: #fff\">EASY TO USE!</h3> <p style=\"color: #fff\">You decide which specific items to cover under Riskpool. You'll upload some information about your belongings, attach a picture and a value estimate.</p><p style=\"color: #fff\">As Ned, you're covering your camera, your turntables, and your vynil collection</p>\n                        ",
+          "_name": "content5",
+          "_anchor": "content5-16"
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Desktop/upload.png",
+          "text": "\n                        <h2>Upload your valuables</h2><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>\n                    ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-13"
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Desktop/value.png",
+          "text": "\n                        \n                        <h2>Get a value estmate</h2><p>Make your own estimate in a few clicks! Your pool members will see these along with your list of valuables when voting for you to join the pool.</p>\n                    \n                    ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-15"
+        },
+        {
+          "_params": {
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "img1": "file:///Users/mathieuguerville/Downloads/noun_18489_cc.png",
+          "img2": "file:///Users/mathieuguerville/Downloads/noun_32459_cc.png",
+          "img3": "file:///Users/mathieuguerville/Downloads/noun_151318_cc.png",
+          "img4": "images/unlimited-websites.png",
+          "caption1": "\n                            <h3>Camera</h3><p>Along with some accessories, your camera has been assessed a value of $900, so if you lose it or break it, you may be eligible for this much money from riskpool</p>\n                        ",
+          "caption2": "\n                            <h3>turntables</h3><p>At $750 assessed value, you got yourselves a nice toy. If it gets wild at your next house party and somebody steals it or drop a drink on it, you could be covered for total replacement value.</p>\n                        ",
+          "caption3": "\n                            <h3>Vynils</h3><p>It's hard to put a price on these, so we let you decide how much they're worth to you and your pool will vote on whether to cover for that amount. The value will also impact your premium (how much you pay). Let's go for $500</p>\n                        ",
+          "caption4": "<h3>UNLIMITED WEBSITES</h3><p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button1": "\n                                \n                            ",
+          "button2": "\n                                \n                            ",
+          "button3": "\n                                \n                            ",
+          "button4": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-default\">LEARN MORE</a>",
+          "_name": "features1",
+          "_anchor": "features1-14"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>Your total covered value &nbsp;$</h2><h2>Your annual premium $</h2><p><br></p>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\" id=\"note-editor-85\">Keep on Ned'ing</a>",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-17"
+        }
+      ]
+    }
+  }
+}
