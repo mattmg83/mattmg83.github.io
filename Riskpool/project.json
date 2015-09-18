@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html"
+    "currentPage": "Ned1.html"
   },
   "pages": {
     "riskpool.html": {
@@ -329,7 +329,7 @@
       },
       "components": []
     },
-    "Ned1html": {
+    "Ned1.html": {
       "settings": {},
       "components": [
         {
