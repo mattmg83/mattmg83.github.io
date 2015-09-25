@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Ned2.html"
+    "currentPage": "Ned1.html"
   },
   "pages": {
     "riskpool.html": {
@@ -254,7 +254,7 @@
             "overlayOpacity": 0.5
           },
           "text": "\n                    <h2>Protect your laptop, TV, and fishing gear</h2>\n                ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-38\">Start as Bruce</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"Bruce.html\" id=\"note-editor-68\">Start as Bruce</a>",
           "_name": "msg-box2",
           "_anchor": "msg-box2-10",
           "_styles": {
@@ -280,7 +280,7 @@
             "overlayOpacity": 0.5
           },
           "text": "\n                    <h2>Protect your bike, surfboard and homebrewing kit</h2>\n                ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-42\">Start as Sue</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"Sue.html\" id=\"note-editor-79\">Start as Sue</a>",
           "_name": "msg-box2",
           "_anchor": "msg-box2-12",
           "_styles": {
@@ -369,7 +369,7 @@
             "overlayOpacity": 0.5
           },
           "image": "file:///Users/mathieuguerville/Desktop/upload.png",
-          "text": "\n                        <h2>Upload your valuables</h2><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>\n                    ",
+          "text": "\n                        \n                        <h2>Upload your valuables</h2><p>Take some nice picture of your stuff, add some receipts if you have them, or anything that will help others see just how valuable your belongings are.</p>\n                    \n                    ",
           "button": "\n                            \n                        ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-13"
@@ -848,6 +848,306 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-77\">Keep going!</a>",
           "_name": "msg-box2",
           "_anchor": "msg-box2-32"
+        }
+      ]
+    },
+    "Sue.html": {
+      "settings": {
+        "title": "Sue1"
+      },
+      "components": [
+        {
+          "_params": {
+            "bgImageRadio": true,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.6
+          },
+          "caption": "\n                            \n                            <h3 style=\"color: #fff\">EASY TO USE!</h3> <p style=\"color: #fff\">You decide which specific items to cover under Riskpool. You'll upload some information about your belongings, attach a picture and a value estimate.</p><p style=\"color: #fff\">As Sue, you're covering your bike, your surfboard, and your homebrewing kit</p>\n                        \n                        ",
+          "_name": "content5",
+          "_anchor": "content5-32"
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Desktop/upload.png",
+          "text": "\n                        \n                        <h2>Upload your valuables</h2><p>Take some nice picture of your stuff, add some receipts if you have them, or anything that will help others see just how valuable your belongings are.</p>\n                    \n                    ",
+          "button": "\n                            \n                        ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-33"
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Desktop/value.png",
+          "text": "\n                        \n                        <h2>Get a value estmate</h2><p>Make your own estimate in a few clicks! Your pool members will see these along with your list of valuables when voting for you to join the pool.</p>\n                    \n                    ",
+          "button": "\n                            \n                        ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-34"
+        },
+        {
+          "_params": {
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "img1": "file:///Users/mathieuguerville/Downloads/noun_16775_cc.png",
+          "img2": "file:///Users/mathieuguerville/Downloads/noun_130439_cc.png",
+          "img3": "file:///Users/mathieuguerville/Downloads/noun_117029_cc.png",
+          "img4": "images/unlimited-websites.png",
+          "caption1": "\n                            \n                            <h3>Bike</h3><p>Your main ride, this bike has been assessed a value of $600, so if you lose it or someone steals it, you may be eligible for this much money from riskpool</p>\n                        \n                        ",
+          "caption2": "\n                            \n                            <h3>Surfboard</h3><p>At $500 assessed value, you got yourselves a nice toy. If it get bit in half by a shark, it's nice to know you have the option to get reimbursed to buy a new one and get back in the water.</p>\n                        \n                        ",
+          "caption3": "\n                            \n                            <h3>Homebrewing kit</h3><p>It's hard to put a price on the delicious beer you make, but we can at least insure the equipement you use to brew your liquid gold. Let's go for $400 of coverage.</p>\n                        \n                        ",
+          "caption4": "<h3>UNLIMITED WEBSITES</h3><p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button1": "\n                                \n                            ",
+          "button2": "\n                                \n                            ",
+          "button3": "\n                                \n                            ",
+          "button4": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-default\">LEARN MORE</a>",
+          "_name": "features1",
+          "_anchor": "features1-35"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    \n                    <h2>Your 3 most prized possessions = $1,500. Add a few more things and a general coverage for $2,500 gets you all set!</h2>\n                \n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box2",
+          "_styles": {
+            "H2": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "msg-box2-36"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    \n                    \n                    <h2>Your total covered value &nbsp;$4,000</h2><h2>Your annual premium $66</h2><p><br></p>\n                \n                \n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Ned2.html\" id=\"note-editor-61\">Keep on Sue'ing</a>",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-37"
+        }
+      ]
+    },
+    "Bruce.html": {
+      "settings": {
+        "title": "Bruce1"
+      },
+      "components": [
+        {
+          "_params": {
+            "bgImageRadio": true,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.6
+          },
+          "caption": "\n                            \n                            \n                            <h3 style=\"color: #fff\">EASY TO USE!</h3> <p style=\"color: #fff\">You decide which specific items to cover under Riskpool. You'll upload some information about your belongings, attach a picture and a value estimate.</p><p style=\"color: #fff\">As Bruce, you're covering your laptop, your fishing gear, and your big TV</p>\n                        \n                        \n                        ",
+          "_name": "content5",
+          "_anchor": "content5-44"
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Desktop/upload.png",
+          "text": "\n                        \n                        <h2>Upload your valuables</h2><p>Take some nice picture of your stuff, add some receipts if you have them, or anything that will help others see just how valuable your belongings are.</p>\n                    \n                    ",
+          "button": "\n                            \n                        ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-45"
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Desktop/value.png",
+          "text": "\n                        \n                        <h2>Get a value estmate</h2><p>Make your own estimate in a few clicks! Your pool members will see these along with your list of valuables when voting for you to join the pool.</p>\n                    \n                    ",
+          "button": "\n                            \n                        ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-46"
+        },
+        {
+          "_params": {
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "img1": "file:///Users/mathieuguerville/Downloads/noun_16074_cc.png",
+          "img2": "file:///Users/mathieuguerville/Downloads/noun_23678_cc.png",
+          "img3": "file:///Users/mathieuguerville/Downloads/noun_96258_cc.png",
+          "img4": "images/unlimited-websites.png",
+          "caption1": "\n                            \n                            \n                            <h3>Macbook</h3><p>Your workhorse and worktool, this laptop has been assessed a value of $1,500, so if you lose it, break it, or someone steals it, you may be eligible for this much money from riskpool</p>\n                        \n                        \n                        ",
+          "caption2": "\n                            \n                            \n                            <h3>Flat screen TV</h3><p>At $900 assessed value, you got yourselves a nice toy. If it gets tipped over by your drunk uncle or your sugar-loaded 8-year old nephew, it's nice to know you have the option to get reimbursed to buy a new one and get back that soap opera you're hooked on.</p>\n                        \n                        \n                        ",
+          "caption3": "\n                            \n                            \n                            <h3>Fishing gear</h3><p>It's hard to put a price on the feeling of escaping this gives you, but we can at least insure the equipement you use to catch some of your best dinners, $400 of coverage should do it!</p>\n                        \n                        \n                        ",
+          "caption4": "<h3>UNLIMITED WEBSITES</h3><p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button1": "\n                                \n                            ",
+          "button2": "\n                                \n                            ",
+          "button3": "\n                                \n                            ",
+          "button4": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-default\">LEARN MORE</a>",
+          "_name": "features1",
+          "_anchor": "features1-47"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    \n                    \n                    <h2>Your 3 most prized possessions = $2,800. Add a few more things and a general coverage for $1,400 gets you all set!</h2>\n                \n                \n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box2",
+          "_styles": {
+            "H2": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "msg-box2-48"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    \n                    \n                    \n                    <h2>Your total covered value &nbsp;$4,200</h2><h2>Your annual premium $70</h2><p><br></p>\n                \n                \n                \n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Ned2.html\" id=\"note-editor-52\">Keep on Bruce'ing</a>",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-49"
         }
       ]
     }
