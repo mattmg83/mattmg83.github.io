@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Ned5.html"
+    "currentPage": "Ned7.html"
   },
   "pages": {
     "riskpool.html": {
@@ -1435,12 +1435,113 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "<h2>PRE MADE BLOCKS</h2><p>Mobirise comes with huge collection of pre made layouts to help make your development faster.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\">START A JOURNEY</a>",
+          "text": "\n                    <h2>Your second year is already halfway done, and thankfully it's uneventful</h2><h2><span style=\"font-weight: normal;\">If I'm not mistaken you've already rebuilt your account to $30 and your pool &nbsp;is up to $200&nbsp;</span></h2><p>Insurance is about pooling risks with others, but realistically in a pool like yours, most years would pass without a claim.</p><p>That's another reason why Riskpool is awesome, let us explain...</p>\n                ",
+          "button": "\n                        \n                    ",
           "_name": "msg-box1",
           "_anchor": "msg-box1-55"
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Downloads/2775011897_19b6365f4f_o.jpg",
+          "text": "\n                        <h2>While you make your monthly payments, you accumulate wealth</h2><p>Unlike traditional insurance, Riskpool doesn't just protect your assets and valuables, it saves most of your premiums into your own account.</p><span style=\"font-size: 17px; line-height: 27px;\">So time is your ally, as every year you carry over the money left in your account.</span>\n                    ",
+          "button": "\n                            \n                        ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-57"
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Downloads/noun_123953_cc.png",
+          "text": "\n                        <h2>You should know</h2><p>Riskpool uses \"vesting\" to protect your wealth, so any money you have contributed is fully yours after 12 months and won't be used to pay for other members' claims</p><p>You may use it for some of your claims though, or you can elect to withdraw it from Riskpool entirely without penalty after 36 months</p><p>Longer holding periods and vesting help us protect the integrity of riskpool and allow us to deliver better returns and benefits to users</p>\n                    ",
+          "button": "\n                            \n                        ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-58"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>Let's see an end of year summary</h2>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-31\">Continue</a>",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-59"
         }
       ]
+    },
+    "Ned7.html": {
+      "settings": {
+        "title": "Ned7"
+      },
+      "components": [
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>Woohoo, the end of year 2</h2><p>Let's see how things net out.</p>\n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-60"
+        }
+      ]
+    },
+    "Ned8.html": {
+      "settings": {
+        "title": "Ned8"
+      },
+      "components": []
     }
   }
 }
