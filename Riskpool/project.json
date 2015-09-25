@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html"
+    "currentPage": "Ned2.html"
   },
   "pages": {
     "riskpool.html": {
@@ -20,13 +20,13 @@
             "items": [
               {
                 "title": "HOME",
-                "href": "http://mobirise.com",
+                "href": "riskpool.html",
                 "pages": "",
                 "anchor": ""
               },
               {
-                "title": "ABOUT",
-                "href": "http://mobirise.com",
+                "title": "ABOUT / EXPLAINER",
+                "href": "explainer.html",
                 "pages": "",
                 "anchor": ""
               }
@@ -128,7 +128,7 @@
             "overlayOpacity": 0.5
           },
           "text": "\n                    <h2>Are you ready?&nbsp;</h2>\n                ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"page1.html\" id=\"note-editor-29\">START</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"explainer.html\" id=\"note-editor-7\">START</a>",
           "_name": "msg-box2",
           "_anchor": "msg-box2-5"
         }
@@ -145,13 +145,13 @@
             "items": [
               {
                 "title": "HOME",
-                "href": "http://mobirise.com",
+                "href": "riskpool.html",
                 "pages": "",
                 "anchor": ""
               },
               {
-                "title": "ABOUT",
-                "href": "http://mobirise.com",
+                "title": "ABOUT / EXPLAINER",
+                "href": "explainer.html",
                 "pages": "",
                 "anchor": ""
               }
@@ -232,7 +232,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "\n                    \n                    <h2>Welcome to Riskpool</h2><p>Your friend just invited you to join. You can protect your valuables against loss, damage or theft</p><p>Your pool consist of Bruce, Sue, Ned and 7 other people. You'll load details about your valuables, (pretend) pay for your share of the pool, and live through 12 months in the shoes of your character</p>\n                \n                ",
+          "text": "\n                    \n                    \n                    <h2>Welcome to Riskpool</h2><p>Your friend just invited you to join. You can protect your valuables against loss, damage or theft</p><p>Your pool consist of Bruce, Sue, Ned and 7 other people. You'll load details about your valuables, (pretend) pay for your share of the pool, and live through 36 months / 3 years in the shoes of your character</p>\n                \n                \n                ",
           "button": "\n                        \n                    ",
           "_name": "msg-box1",
           "_anchor": "msg-box1-9"
@@ -370,7 +370,7 @@
           },
           "image": "file:///Users/mathieuguerville/Desktop/upload.png",
           "text": "\n                        <h2>Upload your valuables</h2><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>\n                    ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\">LEARN MORE</a>",
+          "button": "\n                            \n                        ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-13"
         },
@@ -393,7 +393,7 @@
           },
           "image": "file:///Users/mathieuguerville/Desktop/value.png",
           "text": "\n                        \n                        <h2>Get a value estmate</h2><p>Make your own estimate in a few clicks! Your pool members will see these along with your list of valuables when voting for you to join the pool.</p>\n                    \n                    ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\">LEARN MORE</a>",
+          "button": "\n                            \n                        ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-15"
         },
@@ -435,6 +435,32 @@
             "bgImage": "images/bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>Your 3 most prized possessions = $2,150. Add a few more things and a general coverage for $2,500 gets you all set!</h2>\n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-24",
+          "_styles": {
+            "H2": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
             "bgColor": "#3C3C3C",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -444,10 +470,384 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "\n                    <h2>Your total covered value &nbsp;$</h2><h2>Your annual premium $</h2><p><br></p>\n                ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\" id=\"note-editor-85\">Keep on Ned'ing</a>",
+          "text": "\n                    \n                    <h2>Your total covered value &nbsp;$3,650</h2><h2>Your annual premium $60</h2><p><br></p>\n                \n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Ned2.html\" id=\"note-editor-90\">Keep on Ned'ing</a>",
           "_name": "msg-box1",
           "_anchor": "msg-box1-17"
+        }
+      ]
+    },
+    "explainer.html": {
+      "settings": {
+        "title": "explainer",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": false,
+            "brand": "Riskpool",
+            "textColor": "#4c6972",
+            "items": [
+              {
+                "title": "HOME",
+                "href": "riskpool.html",
+                "pages": "",
+                "anchor": ""
+              },
+              {
+                "title": "ABOUT / EXPLAINER",
+                "href": "explainer.html",
+                "pages": "",
+                "anchor": ""
+              }
+            ]
+          },
+          "logo": "images/logo.png",
+          "_name": "menu",
+          "_anchor": "menu-1"
+        },
+        {
+          "_params": {
+            "bgImageRadio": true,
+            "bgImage": "file:///Users/mathieuguerville/Pictures/IMG_6030.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                        <h2>RiskPool</h2><p>Riskpool is about protecting the thing you care about.</p><p>Riskpool is about building your wealth.</p><p>Riskpool is about social.</p><p>Riskpool is your community, your friends, having your back... and you having theirs.</p><p><br></p><p>... So you can focus on the things that matter to you</p>\n                    ",
+          "buttons": "",
+          "_name": "header2",
+          "_anchor": "header2-17",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                <p>Loader icon, credits to https://dribbble.com/shots/2235810-Loader-v6</p>\n            ",
+          "_name": "footer1",
+          "_anchor": "footer1-20",
+          "_styles": {
+            "P": {
+              "font-size": "10px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Desktop/loader.gif",
+          "text": "\n                        \n                        \n                        \n                        <h2>HOW IT WORKS</h2><p>In Riskpool you and 9 to 14 others pool together to insure your valuable belongings.</p><p>Your individual&nbsp;<span style=\"font-weight: bold;\">account</span> has a certain amount of coverage, protecting your <span style=\"font-weight: bold;\">valuables</span></p><p>The group you're a part of is your POOL. Each POOL member pays a fair share of the POOL's premiums (contributions) relative to his/her coverage. The more belongings and valuables you protect in RiskPool, the more you'' contribute, and the higher share of the POOL you'll have.</p><p>When a loss occurs in your Pool (e.g. someone claims to have a valuable stolen), you and others in it vote to compensate to the person making the claim, we'll show you how in the simulation.</p><p>RiskPool has many POOLS so in the event of a claim (a loss, damage or theft of some Pool member's valuables), the reimbursement money works this way</p><p>* First, money from the individual account is used</p><p>* Second, money from the person's pool</p><p>* Finally, money from other pools and from RiskPool&nbsp;</p>\n                    \n                    \n                    \n                    ",
+          "button": "\n                            \n                        ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-19"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>FOR EVERY $100 YOU PUT IN RISKPOOL</h2>\n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-24",
+          "_styles": {
+            "H2": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "firstType": "green",
+            "secondType": "orange",
+            "thirdType": "favorite",
+            "fourthType": "blue",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "\n                        <h3>RISKPOOL</h3>\n                    ",
+          "title2": "\n                        <h3>YOUR POOL</h3>\n                    ",
+          "title3": "\n                        <h3>YOUR ACCOUNT</h3>\n                    ",
+          "title4": "\n                        <h3>FEES</h3>\n                    ",
+          "price1": "\n                        <strong><sup>$</sup>30</strong>\n                    ",
+          "price2": "\n                        <strong><sup>$</sup>0-60</strong><small>depending on claims</small>\n                    ",
+          "price3": "\n                        <strong><sup>$</sup>0-60</strong><small>depending on claims</small>\n                    ",
+          "price4": "\n                        <strong><sup>$</sup>10</strong>\n                    ",
+          "list1": "\n                        <ul><li><b>$30&nbsp;</b>&nbsp;to help other pools with claims of their own</li><li><span style=\"font-weight: bold;\">Other pools</span>&nbsp;help your pool and you as needed too</li><li><b>RiskPool&nbsp;</b>manages the process</li></ul>\n                    ",
+          "list2": "\n                        <ul><li><b>$0&nbsp;</b>used if your pool has no claims</li><li><b>$60&nbsp;</b>from your pool before the community pool covers your pool claims</li><li><b>You vote&nbsp;</b>on claims</li></ul>\n                    ",
+          "list3": "\n                        <ul><li><b>up to $50 back to you if neither you or your pool has any claims</b></li><li><b>The premium that gives back</b></li><li><b>We build your wealth</b></li></ul>\n                    ",
+          "list4": "\n                        <ul><li><b>No extra fees for claim processing, changes in coverage, deposits and withdrawals</b></li><li><b>Backed&nbsp;</b>by investors, community-oriented</li></ul>\n                    ",
+          "button1": "\n                            \n                        ",
+          "button2": "\n                            \n                        ",
+          "button3": "\n                            \n                        ",
+          "button4": "\n                            \n                        ",
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-25"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>GOT IT?&nbsp;</h2>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"page1.html\" id=\"note-editor-25\">START!</a>",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-23"
+        }
+      ]
+    },
+    "Ned2.html": {
+      "settings": {
+        "title": "Ned2"
+      },
+      "components": [
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>You're all signed-up, you could invite some friends to join your pool,&nbsp;</h2>\n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-25",
+          "_styles": {
+            "H2": {
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Desktop/signed up.png",
+          "text": "\n                        <h2>RiskPool is about community</h2><p>The more you know about other people in your pool, the easier it becomes to vote on matters such as:</p><p>- Adding members to the pool</p><p>- Paying out a claim to reimburse someone for a loss</p><p>- Approving changes in coverages</p>\n                    ",
+          "button": "\n                            \n                        ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-26"
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/mathieuguerville/Desktop/Project Satchel/fake pools/fake pools.001.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Desktop/Project Satchel/fake pools/fake pools.001.jpg",
+          "text": "\n                        <h2>This is what your pool looks like</h2><br>\n                    ",
+          "button": "\n                            \n                        ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-27",
+          "_styles": {
+            "H2": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Downloads/noun_176852_cc.png",
+          "text": "\n                        <h2>At the beginning of every new year &nbsp;for your pool, you can add new people, whether your own friends or friends of pool members</h2><p>You and others vote on all matters, with a share of vote proportional to your share of the pool.</p><p>This year, it looks like that's it for now, you and the 9 people above are it!</p>\n                    ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"Ned3.html\" id=\"note-editor-12\">Keep going</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-30"
+        }
+      ]
+    },
+    "Ned3.html": {
+      "settings": {
+        "title": "Ned3"
+      },
+      "components": [
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>TIME FLIES!</h2><h2><span style=\"font-size: 17px; line-height: 27px;\">It's been 5 months already.</span></h2><h2><span style=\"font-size: 17px; line-height: 27px;\">Thanks for being up to date on your monthly payments</span></h2><h2><span style=\"font-size: 17px; line-height: 27px;\">You've put it &nbsp;$25 in Riskpool (5/12th of your $60 annual premium)</span></h2>\n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-31",
+          "_styles": {
+            "H2": {
+              "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "bgImageRadio": true,
+            "bgImage": "file:///Users/mathieuguerville/Downloads/4349026082_ce9f79be15_o.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.6
+          },
+          "caption": "\n                            <h3 style=\"color: #fff\">FYI: General coverage in your Riskpool profile helps in several ways!</h3> <p style=\"color: #fff\">Whether you buy new cool valuables but haven't taken and uploaded a picture to RiskPool yet, or moved to a new zipcode with different risk premiums, or simply want to cover some various items not individually categorized and assessed in your riskpool profile, General coverage helps make sure you are protected adequately.</p><p style=\"color: #fff\"><br></p><p style=\"color: #fff\">FYI: Documentation is you and everyone else's best friend</p><p style=\"color: #fff\">Uploading pictures of your valuables to RiskPool is the best way to give your pool members confidence in accepting you and your requested coverage in the pool</p><p style=\"color: #fff\">In the event of a loss, documents like police reports and other credible authorities will also significantly help your pool members vote on whether to reiumburse your for your claim. Our goal is to make it as easy as possible to document all that stuff so let your talent for photography shine but go easy on the filters and touch ups ;)</p>\n                        ",
+          "_name": "content5",
+          "_anchor": "content5-33",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>All is well in Riskpool-land</h2>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-77\">Keep going!</a>",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-32"
         }
       ]
     }
