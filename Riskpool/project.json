@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Bruce3.html"
+    "currentPage": "Ned7.html"
   },
   "pages": {
     "riskpool.html": {
@@ -863,7 +863,7 @@
             "overlayOpacity": 0.5
           },
           "text": "\n                    <h2>All is well in Riskpool-land</h2>\n                ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-77\">Keep going!</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"Ned4.html\" id=\"note-editor-12\">Keep going!</a>",
           "_name": "msg-box2",
           "_anchor": "msg-box2-32"
         }
@@ -1313,7 +1313,7 @@
             "overlayColor": "#b8312f",
             "overlayOpacity": 0.5
           },
-          "text": "\n                        <h2>The Results are in!</h2><p>Thanks for voting, we heard your point, and everybody else.</p><p>As a result of the group vote, Bruce will get a partial reimbursement, for $800. About $400 will be pad by your pool and the rest by other pools within riskpool</p><p>This will clear out Bruce's account to $0, and reset his share of the pool to 0%</p><p>This will unfrotunately also clear out everybody amd the whole pool to $0, but you each increase your share of the pool by 1.35%</p><p>Other pools chipped in for the rest via the same 30% your pool contributes to Riskpool every year</p>\n                    ",
+          "text": "\n                        \n                        <h2>The Results are in!</h2><p>Thanks for voting, we heard your point, and everybody else.</p><p>As a result of the group vote, Bruce will get a partial reimbursement, for $800. About $400 will be pad by your pool and the rest by other pools within riskpool</p><p>This will clear out Bruce's account to $0, and reset his share of the pool to 0%</p><p>This will unfrotunately also clear out everybody and the whole pool to $0, but you each increase your share of the pool by 1.35%</p><p>Other pools chipped in for the rest via the same 30% your pool contributes to Riskpool every year</p>\n                    \n                    ",
           "buttons": "",
           "_name": "header2",
           "_anchor": "header2-48"
@@ -1408,7 +1408,7 @@
             "overlayOpacity": 0.5
           },
           "text": "\n                    <h2>LET'S START YEAR 2. Thanks for playing along</h2>\n                ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-122\">Continue</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"Ned6.html\" id=\"note-editor-28\">Continue</a>",
           "_name": "msg-box2",
           "_anchor": "msg-box2-52"
         }
@@ -1503,7 +1503,7 @@
             "overlayOpacity": 0.5
           },
           "text": "\n                    <h2>Let's see an end of year summary</h2>\n                ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-31\">Continue</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"Ned7.html\" id=\"note-editor-33\">Continue</a>",
           "_name": "msg-box2",
           "_anchor": "msg-box2-59"
         }
@@ -1552,11 +1552,16 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "image": "images/iphone.png",
-          "text": "<h2>DRAG AND DROP WEBSITE BUILDER</h2><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "image": "file:///Users/mathieuguerville/Desktop/Project Satchel/fake pools/Ned2.png",
+          "text": "\n                        \n                        <h2>You have 11.4% of the pool shares</h2><p>Year 1 took the cash value of your pool to 0 and your account with it</p><p>Year 2 on the other hand rebuilt your pool to $400, and your account to about $50</p>\n                    \n                    ",
           "button": "\n                            \n                        ",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-61"
+          "_anchor": "msg-box4-61",
+          "_styles": {
+            "H2": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_params": {
@@ -1574,8 +1579,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "<h2>PRE MADE BLOCKS</h2><p>Mobirise comes with huge collection of pre made layouts to help make your development faster.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\">START A JOURNEY</a>",
+          "text": "\n                    <h2>Let's get to the finiish line<br></h2>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Ned8.html\" id=\"note-editor-30\">See what happens in Year 3</a>",
           "_name": "msg-box1",
           "_anchor": "msg-box1-60"
         }
@@ -1585,7 +1590,140 @@
       "settings": {
         "title": "Ned8"
       },
-      "components": []
+      "components": [
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>[Summary<span style=\"font-size: 17px; line-height: 27px;\">]</span><br></h2>\n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-98"
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Desktop/Project Satchel/fake pools/Ned 3.png",
+          "text": "\n                        <h2>This is what your pool looks like at the end of this adventure</h2><p>There's $553 in your group pool, if you were to exit you'd be entitled and fully vested to 11.7% of it, or $64</p>\n                    ",
+          "button": "\n                            \n                        ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-99",
+          "_styles": {
+            "H2": {
+              "font-size": "17px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "textAlign": "left",
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "image": "file:///Users/mathieuguerville/Desktop/Project Satchel/fake pools/Nedtheend.png",
+          "text": "\n                        <h2>This is what your journey looked like</h2><p>You've paid about $180 to Riskpool over 3 year (your sum of monthly premiums is the blue bar chart).</p><p>Your pool was building up nicely but suffered two losses in Month 10 (which brought everyone to zero) and in Month 25 (which decrease a bit only)</p><p>Your friends Sue and Bruce benefitted from the protection and were able to replace their lost or damaged items</p><p>Your account built some wealth for you, while you were protected by Riskpool you were also accumulating cash, after 3 years you have saved up $65, over a third of your paid premiums!</p>\n                    ",
+          "button": "\n                            \n                        ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-100",
+          "_styles": {
+            "H2": {
+              "font-size": "17px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>Thanks for playing along as Ned</h2><h2>We'd love your feedback, please consider filling our survey, it's only 5 questions</h2>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\" id=\"note-editor-44\">START A Survey</a>",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-101",
+          "_styles": {
+            "H2": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "\n                <h2>IF YOU LIKED THE IDEA OF RISKPOOL, PLEASE FOLLOW US FOR UPDATES AND NEWS ABOUT THE LAUNCH!</h2>\n            ",
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-102",
+          "_styles": {
+            "H2": {
+              "font-size": "17px"
+            }
+          }
+        }
+      ]
     },
     "Sue2.html": {
       "settings": {
@@ -1953,7 +2091,12 @@
           "text": "\n                    <h2>All is well in Riskpool-land</h2>\n                ",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"Bruce4.html\" id=\"note-editor-227\">Keep going!</a>",
           "_name": "msg-box2",
-          "_anchor": "msg-box2-75"
+          "_anchor": "msg-box2-75",
+          "_styles": {
+            "H2": {
+              "font-size": "23px"
+            }
+          }
         }
       ]
     },
@@ -2146,10 +2289,50 @@
             "overlayOpacity": 0.5
           },
           "image": "file:///Users/mathieuguerville/Downloads/noun_16074_cc.png",
-          "text": "\n                        <h2>Noooooooo!</h2><p>One of your pool members, Bruce, is making a claim.</p><p>Bruce damaged his laptop, it's a total loss, he will need a new one.</p><p>In his claim documents he says that the laptop fell when he got up at a coffee shop, he'll probably get the data and his documents, but the screen is shattered and he will need a new laptop.</p><p>We had estimated the value of his laptop at $1,500</p>\n                    ",
+          "text": "\n                        \n                        <h2>Noooooooo!</h2><p>We told you that power cord was like a trip wire from other coffee shop patrons, turns out you're the one to send your own laptop crashing to the ground when getting up. It's a total loss, you'll need a new laptop... or to lean calligraphy.</p><p>You'll probably get the data and your documents back at least.</p><p>We had estimated the value of your laptop at $1,500, hopefully you can get a reimbursement close to that</p>\n                    \n                    ",
           "button": "\n                            \n                        ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-83"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>You have to file a claim, let your pool know you'd like a payment towards a replacement laptop</h2>\n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-86"
+        },
+        {
+          "_params": {
+            "bgImageRadio": true,
+            "bgImage": "file:///Users/mathieuguerville/Downloads/14116489950_a685c22790_k.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.6
+          },
+          "caption": "\n                            <h3 style=\"color: #fff\">DOCUMENT, DOCUMENT, DOCUMENT!</h3> <p style=\"color: #fff\">While there won't be a police report about you sending your own laptop to the junkyard, whatever you can do to prove the damage to your pool members will go a long way to sway their votes in your favor. By the way, you won't get a vote on this decision but below are the options your pool members are facing:</p>\n                        ",
+          "_name": "content5",
+          "_anchor": "content5-87"
         },
         {
           "_params": {
@@ -2163,17 +2346,17 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#b8312f",
             "overlayOpacity": 0.5
           },
           "img1": "file:///Users/mathieuguerville/Downloads/noun_157754_cc.png",
           "img2": "file:///Users/mathieuguerville/Downloads/noun_183790_cc.png",
           "img3": "file:///Users/mathieuguerville/Downloads/noun_79516_cc.png",
           "img4": "images/unlimited-websites.png",
-          "caption1": "\n                            \n                            <h3><a href=\"Ned5.html\">Vote for a full reimbursement</a></h3><p>We all make mistakes or are clumsy at times.</p><p>This will empty your pool entirely, and use some funds from other pools, your share of the pool will increase and Bruce's will decrease to 0% for now</p>\n                        \n                        ",
-          "caption2": "\n                            \n                            <h3><a href=\"Ned5.html\">Vote for a partial reimbursement</a></h3><p>It's unfortunate and you want to help, but you either feel that this isn't a qualified claim, or that the replacement value doesn't need to be so high. This would decrease your pool value, possibly to zero, but increase your share of the pool and decrease Bruce's</p><p><br></p>\n                        \n                        ",
-          "caption3": "\n                            \n                            <h3><a href=\"Ned5.html\">Vote for no reimbursement</a></h3><p>You feel this doesn't qualify as a claim, either it isn't properly documented, or the accident shouldn't be covered, or you suspect it's a false claim (fraud).</p><p><br></p>\n                        \n                        ",
+          "caption1": "\n                            \n                            \n                            <h3>Vote for a full reimbursement</h3>\n                        \n                        \n                        ",
+          "caption2": "\n                            \n                            \n                            <h3>Vote for a partial reimbursement</h3>\n                        \n                        \n                        ",
+          "caption3": "\n                            \n                            \n                            <h3>Vote for no reimbursement</h3><p><br></p>\n                        \n                        \n                        ",
           "caption4": "<h3>UNLIMITED WEBSITES</h3><p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "button1": "\n                                \n                            ",
           "button2": "\n                                \n                            ",
@@ -2198,10 +2381,252 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "\n                    <h2>Thanks for voting</h2>\n                ",
+          "text": "\n                    \n                    <h2>Let's see what your group voted for...</h2>\n                \n                ",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Ned5.html\" id=\"note-editor-27\">Continue</a>",
           "_name": "msg-box1",
           "_anchor": "msg-box1-85"
+        }
+      ]
+    },
+    "Sue5.html": {
+      "settings": {
+        "title": "Sue5"
+      },
+      "components": [
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#b8312f",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                        \n                        <h2>The Results are in!</h2><p>Thanks for voting, we heard your point, and everybody else.</p><p>As a result of the group vote, Bruce will get a partial reimbursement, for $800. About $400 will be pad by your pool and the rest by other pools within riskpool</p><p>This will clear out Bruce's account to $0, and reset his share of the pool to 0%</p><p>This will unfrotunately also clear out everybody and the whole pool to $0, but you each increase your share of the pool by 1.35%</p><p>Other pools chipped in for the rest via the same 30% your pool contributes to Riskpool every year</p>\n                    \n                    ",
+          "buttons": "",
+          "_name": "header2",
+          "_anchor": "header2-88"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>At the end of your first year</h2><p>Riskpool helped you help a friend, and had your back if something happened to your valuables.</p><p>Unfortunately, due to the size of the claim there's no money left in the pool, so let's stay on for a bit longer, shall we? We promise it'll be fun</p>\n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-89"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>In Reality, at Riskpool, every year end allows you to make the following choices</h2>\n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-90"
+        },
+        {
+          "_params": {
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "img1": "file:///Users/mathieuguerville/Downloads/noun_194647_cc.png",
+          "img2": "file:///Users/mathieuguerville/Downloads/noun_105424_cc.png",
+          "img3": "file:///Users/mathieuguerville/Downloads/noun_182896_cc.png",
+          "img4": "images/unlimited-websites.png",
+          "caption1": "\n                            <h3>Keep the course</h3><p>If it ain't broke, don't fix it. Most Riskpooler will do this, let their share value appreciate and maintance the coverage and protection on the things they value.</p>\n                        ",
+          "caption2": "\n                            <h3>Make some changes</h3><p>Changes to your coverage, addition of new pool members, or any other structural changes. A small percentage of pools might make those changes.</p>\n                        ",
+          "caption3": "\n                            <h3>Exit the pool</h3><p>Whether to join another pool, to withdraw some cash from their account, or because they move to a country where riskpool isn't avilable, we expect some riskpoolers to exit every year.</p>\n                        ",
+          "caption4": "<h3>UNLIMITED WEBSITES</h3><p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button1": "\n                                \n                            ",
+          "button2": "\n                                \n                            ",
+          "button3": "\n                                \n                            ",
+          "button4": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-default\">LEARN MORE</a>",
+          "_name": "features1",
+          "_anchor": "features1-91"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>LET'S START YEAR 2. Thanks for playing along</h2>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-122\">Continue</a>",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-92"
+        }
+      ]
+    },
+    "Bruce5.html": {
+      "settings": {
+        "title": "Bruce5"
+      },
+      "components": [
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#b8312f",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                        \n                        <h2>The Results are in!</h2><p>Thanks for voting, we heard your point, and everybody else.</p><p>As a result of the group vote, you will get a partial reimbursement, for $800. About $400 will be pad by your pool and the rest by other pools within riskpool</p><p>This will clear out your account to $0, and reset your share of the pool to 0% for the year, you'll build back fast next year</p><p>This will unfrotunately also clear out everybody and the whole pool to $0, o<span style=\"background-color: rgb(60, 60, 60); line-height: 1.42857143;\">ther pools chipped in for the rest via the same 30% your pool contributes to Riskpool every year</span></p>\n                    \n                    ",
+          "buttons": "",
+          "_name": "header2",
+          "_anchor": "header2-93"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    \n                    <h2>At the end of your first year</h2><p>Riskpool helped you replace your laptop, &nbsp;your pool friends had your back when something happened to your valuables.</p><p>Unfortunately, due to the size of your claim there's no money left in the pool, but let's stay on for a bit longer, shall we? We promise it'll be fun</p>\n                \n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-94"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>In Reality, at Riskpool, every year end allows you to make the following choices</h2>\n                ",
+          "button": "\n                        \n                    ",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-95"
+        },
+        {
+          "_params": {
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "img1": "file:///Users/mathieuguerville/Downloads/noun_194647_cc.png",
+          "img2": "file:///Users/mathieuguerville/Downloads/noun_105424_cc.png",
+          "img3": "file:///Users/mathieuguerville/Downloads/noun_182896_cc.png",
+          "img4": "images/unlimited-websites.png",
+          "caption1": "\n                            <h3>Keep the course</h3><p>If it ain't broke, don't fix it. Most Riskpooler will do this, let their share value appreciate and maintance the coverage and protection on the things they value.</p>\n                        ",
+          "caption2": "\n                            <h3>Make some changes</h3><p>Changes to your coverage, addition of new pool members, or any other structural changes. A small percentage of pools might make those changes.</p>\n                        ",
+          "caption3": "\n                            <h3>Exit the pool</h3><p>Whether to join another pool, to withdraw some cash from their account, or because they move to a country where riskpool isn't avilable, we expect some riskpoolers to exit every year.</p>\n                        ",
+          "caption4": "<h3>UNLIMITED WEBSITES</h3><p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button1": "\n                                \n                            ",
+          "button2": "\n                                \n                            ",
+          "button3": "\n                                \n                            ",
+          "button4": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-default\">LEARN MORE</a>",
+          "_name": "features1",
+          "_anchor": "features1-96"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    <h2>LET'S START YEAR 2. Thanks for playing along</h2>\n                ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" id=\"note-editor-122\">Continue</a>",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-97"
         }
       ]
     }
