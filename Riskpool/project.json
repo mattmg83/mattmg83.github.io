@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Ned8.html"
+    "currentPage": "Bruce8.html"
   },
   "pages": {
     "riskpool.html": {
@@ -1685,7 +1685,7 @@
             "overlayOpacity": 0.5
           },
           "text": "\n                    <h2>Thanks for playing along as Ned</h2><h2>We'd love your feedback, please consider filling our survey, it's only 5 questions</h2>\n                ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://docs.google.com/forms/d/11TXWJETeJH1gOI0Zpks0MSL4ddhcGmp6neq9LHurrB8/viewform?usp=send_form\" id=\"note-editor-298\">START A Survey</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://docs.google.com/forms/d/11TXWJETeJH1gOI0Zpks0MSL4ddhcGmp6neq9LHurrB8/viewform?usp=send_form\" id=\"note-editor-25\">START A Survey</a>",
           "_name": "msg-box1",
           "_anchor": "msg-box1-101",
           "_styles": {
@@ -1714,7 +1714,7 @@
             "twitter": true,
             "google": true
           },
-          "text": "\n                <h2>IF YOU LIKED THE IDEA OF RISKPOOL, PLEASE FOLLOW US FOR UPDATES AND NEWS ABOUT THE LAUNCH!</h2>\n            ",
+          "text": "\n                \n                <h2>IF YOU LIKED THE IDEA OF RISKPOOL, PLEASE FOLLOW US <a href=\"http://riskpool-0.launchrock.com/\">HERE</a> FOR UPDATES AND NEWS ABOUT THE LAUNCH! And share us</h2>\n            \n            ",
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-102",
           "_styles": {
@@ -3073,7 +3073,7 @@
             "overlayOpacity": 0.5
           },
           "text": "\n                    \n                    <h2>Thanks for playing along as Sue</h2><h2>We'd love your feedback, please consider filling our survey, it's only 5 questions</h2>\n                \n                ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\" id=\"note-editor-44\">START A Survey</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://docs.google.com/forms/d/11TXWJETeJH1gOI0Zpks0MSL4ddhcGmp6neq9LHurrB8/viewform?usp=send_form\" id=\"note-editor-13\">START A Survey</a>",
           "_name": "msg-box1",
           "_styles": {
             "H2": {
@@ -3102,7 +3102,7 @@
             "twitter": true,
             "google": true
           },
-          "text": "\n                <h2>IF YOU LIKED THE IDEA OF RISKPOOL, PLEASE FOLLOW US FOR UPDATES AND NEWS ABOUT THE LAUNCH!</h2>\n            ",
+          "text": "\n                \n                <h2>IF YOU LIKED THE IDEA OF RISKPOOL, PLEASE FOLLOW US <a href=\"http://riskpool-0.launchrock.com/\">HERE</a> FOR UPDATES AND NEWS ABOUT THE LAUNCH! And share us...</h2>\n            \n            ",
           "_name": "social-buttons1",
           "_styles": {
             "H2": {
@@ -3212,7 +3212,7 @@
             "overlayOpacity": 0.5
           },
           "text": "\n                    \n                    <h2>Thanks for playing along as Bruce</h2><h2>We'd love your feedback, please consider filling our survey, it's only 5 questions</h2>\n                \n                ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\" id=\"note-editor-44\">START A Survey</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://docs.google.com/forms/d/11TXWJETeJH1gOI0Zpks0MSL4ddhcGmp6neq9LHurrB8/viewform?usp=send_form\" id=\"note-editor-19\">START A Survey</a>",
           "_name": "msg-box1",
           "_styles": {
             "H2": {
@@ -3241,7 +3241,7 @@
             "twitter": true,
             "google": true
           },
-          "text": "\n                <h2>IF YOU LIKED THE IDEA OF RISKPOOL, PLEASE FOLLOW US FOR UPDATES AND NEWS ABOUT THE LAUNCH!</h2>\n            ",
+          "text": "\n                \n                <h2>IF YOU LIKED THE IDEA OF RISKPOOL, PLEASE FOLLOW US <a href=\"http://riskpool-0.launchrock.com/\">HERE</a> FOR UPDATES AND NEWS ABOUT THE LAUNCH! And share us...</h2>\n            \n            ",
           "_name": "social-buttons1",
           "_styles": {
             "H2": {
